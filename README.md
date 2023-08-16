@@ -1,9 +1,10 @@
 ## Oi, eu sou Wesley Michael
 
 
+- **Desenvolvedor Web Full Stack**: curso intensivo da Driven com +1200h, desenvolvendo projetos práticos;
 - **Engenheiro Civil**: trabalhei com pesquisa de simulação numérica do escoamento do vento em torno das edificações;
 - **Mestrado em Engenharia Civil** com pesquisa em simulação de injeção CO2 em reservatórios de petróleo, financiada pela ANP (Agência Nacional de Petróleo);
-- **Desenvolvedor Web Full Stack** pela Driven (Em andamento);
+
 
 <br/>
 
