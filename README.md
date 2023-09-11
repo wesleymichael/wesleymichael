@@ -1,10 +1,18 @@
 ## Oi, eu sou Wesley Michael 👋
 
+### 👨‍💻 Desenvolvedor Full Stack
 
-- **Desenvolvedor Web Full Stack**: curso intensivo da Driven com +1200h, desenvolvendo projetos práticos;
-- **Engenheiro Civil**: trabalhei com pesquisa de simulação numérica do escoamento do vento em torno das edificações;
-- **Mestrado em Engenharia Civil** com pesquisa em simulação de injeção CO2 em reservatórios de petróleo, financiada pela ANP (Agência Nacional de Petróleo);
+Meu primeiro contato com programação aconteceu durante o segundo semestre do curso de Engenharia Civil pela [UFPE](https://www.ufpe.br), com a disciplina de Algoritmos e Programação de Computadores. Ali já estava apaixonado por programação, talvez por influência da exclente professora que tive. 
 
+<hb>
+
+Era impossível não gostar de programação, a sensação de resolver um problema usando uma linguagem de programação era tão boa quanto passar um final de semana jogando algum jogo de mundo aberto.
+
+- 🎓 Engenharia de software pela Driven Education;
+- 🎓 Mestrado em Engenharia Civil, com pesquisa em simulação de injeção CO2 em reservatórios de petróleo, financiada pela [ANP](https://www.gov.br/anp/pt-br);
+- 📚 Estou sempre disposto a aprender algo novo.
+- 📖 No momento, estudando Docker e Java.
+- ⚡ Fun fact: Apaixonado por futebol ⚽️ e amo cantar nas horas vagas (e não vagas também). 🎤😄
 
 <br/>
 
